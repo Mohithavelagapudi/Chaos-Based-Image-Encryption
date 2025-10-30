@@ -42,6 +42,8 @@ $$
 
 ## 🧮 Methodology Snapshot
 
+<p align="center"> <img src="Arnold_catmap.png" alt="RViz Visualization" width="80%" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.1);" /> </p>
+
 ### 1️⃣ Arnold Cat Map Workflow
 1. Load square image (pad if needed).
 2. Apply matrix transform iteratively (key-driven iteration count).
@@ -55,6 +57,7 @@ $$
 4. XOR original / permuted image with mask ⇒ ciphertext.
 5. Regenerate mask with identical key to reverse XOR.
 
+<p align="center"> <img src="Henon_map.png" alt="RViz Visualization" width="80%" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.1);" /> </p>
 ---
 
 ## 📊 Comparative Feature Grid
